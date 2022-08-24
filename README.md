@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RiteshHajare
 - 👀 I’m interested in Full Stack Web Development
+- 🎗️ Currently learning WEB3
 - 💞️ I’m looking to collaborate on Frontend, Backend or Full Stack Web Development Projects
 - 📫 How to reach me:- E-mail -> riteshhajare7@gmail.com | LinkedIn -> https://www.linkedin.com/in/ritesh-hajare-515941242/
 
