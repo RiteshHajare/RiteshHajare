@@ -20,33 +20,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```java
-public class RiteshHajare extends Developer {
-
-    String  role        = "Full Stack Developer";
-    String  company     = "Capgemini, Pune";
-    String  education   = "B.Tech Computer Engineering — CGPA: 8.87";
-
-    String[] languages  = { "Java 8+", "JavaScript", "TypeScript", "HTML/CSS" };
-    String[] backend    = { "Spring Boot", "Microservices", "Hibernate/JPA", "REST", "SOAP" };
-    String[] frontend   = { "Angular", "ReactJS", "Next.js", "jQuery", "Bootstrap", "Tailwind" };
-    String[] cloud      = { "AWS EC2", "AWS S3", "AWS ECS", "Azure" };
-    String[] databases  = { "MySQL", "PostgreSQL", "Oracle", "MongoDB" };
-    String[] devops     = { "Jenkins", "Maven", "Git", "SonarQube", "Docker" };
-
-    String   funFact    = "I write code that outlives deadlines 😄";
-
-    @Override
-    public String currentlyLearning() {
-        return "Event Driven Architecture & Cloud Native Patterns";
-    }
-}
-```
-
----
-
 ## 🚀 Tech Stack & Skills
 
 ### ☕ Backend
@@ -90,29 +63,6 @@ public class RiteshHajare extends Developer {
 
 ---
 
-## 📊 GitHub Analytics Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshHajare&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshHajare&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshHajare&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshHajare&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=1abc9c&currStreakLabel=2E75B6&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9"/>
-
-</div>
-
----
-
-
 ## 🧩 LeetCode Dashboard
 
 <div align="center">
@@ -126,16 +76,6 @@ public class RiteshHajare extends Developer {
 ![LeetCode](https://img.shields.io/badge/LeetCode-1000%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![CodeChef](https://img.shields.io/badge/CodeChef-3_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshHajare&bg_color=0D1117&color=2E75B6&line=1abc9c&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -164,10 +104,6 @@ public class RiteshHajare extends Developer {
 
 ![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![IIT Bombay](https://img.shields.io/badge/IIT_Bombay-C_%26_C%2B%2B_Training-003366?style=for-the-badge&logo=academia&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft_%26_LinkedIn-Career_Essentials_in_SWE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Persistent](https://img.shields.io/badge/Persistent_Technologies-Martian_Oct_2023-6B21A8?style=for-the-badge&logo=rocket&logoColor=white)
-
 </div>
 
 ---
@@ -186,10 +122,3 @@ public class RiteshHajare extends Developer {
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=RiteshHajare&color=2E75B6&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,50:2E75B6,100:1F4E79&height=100&section=footer" width="100%"/>
-
-</div>
